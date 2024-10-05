@@ -1,0 +1,24 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Luky Ana Adi Pratama",
+      "merchant_id": "M001",
+      "logged_in": false
+    },
+    {
+      "id": "2",
+      "name": "Dimas Rizky",
+      "merchant_id": "M001",
+      "logged_in": false
+    }
+  ],
+  "history": [
+    {
+      "id": "",
+      "name": "",
+      "merchant_id": "",
+      "logged_in": false
+    }
+  ]
+}
